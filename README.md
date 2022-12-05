@@ -6,7 +6,7 @@
 
 # :speech_balloon: Sobre
 
-Foi utilizado a Api Pokemon para extração de dados nome, id, imagem e hooks do React como useState para armazenar valores da Api e para que os valores
+Foi utilizado a Api Pokémon para extração de dados nome, id, imagem e hooks do React como useState para armazenar valores da Api e para que os valores
 seja refletidos na tela, useEffect para os valores aparecer na tela quando aplicação for iniciada.
 
 ## :white_check_mark: Requirementos ##
