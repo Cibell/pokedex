@@ -1,7 +1,7 @@
 # 💻 Projeto Pokédex
 ### Para ver esse projeto ao vivo [**Clique aqui**](https://cibell-pokedex.netlify.app/)
 <p align="center">
-<img src="https://media3.giphy.com/media/nQUHzZLaJ7zq22V2zr/giphy.gif?cid=790b761107ae9babd4dbd52b92def5ec4fd42a2006021d43&rid=giphy.gif&ct=g" width="800px">
+<img src="https://media.giphy.com/media/4Ob8U816aW6LTDDk4c/giphy.gif" width="800px">
 <p/>
 
 # :speech_balloon: Sobre
